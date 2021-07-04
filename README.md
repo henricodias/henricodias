@@ -1,16 +1,16 @@
-<h2>Hi there👋</h2>
+<h3>Hi there👋</h3>
 
 I'm Big Data & Analytics student. Currently developing skills in Java.
 
 
 
-<h3>Connect with me:</h3>
+<h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/henrico-vidal-342ba0185/" target="_blank">
 <img align="center" alt="henrico-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;">
 </a>
 
-<h3>My skills:</h3>
+<h2>My skills:</h2>
 <a href="https://www.python.org/" target="_blank">
 <img align="center" alt="henrico-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 style="max-width:100%;">
