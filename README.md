@@ -28,6 +28,8 @@ style="max-width:100%;">
 style="max-width:100%;">
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?henricodias=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
