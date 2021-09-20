@@ -28,10 +28,8 @@ style="max-width:100%;">
 style="max-width:100%;">
 </a>
 
-<div>
   ![Henrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=henricodias&theme=dark&show_icons=true)
-  ![Henrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=henricodias)](https://github.com/henricodias/github-readme-stats)
-</div>
+  [![Henrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=henricodias)](https://github.com/henricodias/github-readme-stats)
 
 
 
