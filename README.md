@@ -4,11 +4,10 @@ Hi ! 👋
       - Developer, based in Blumenau, SC;
 
 <div>
-  
-@@ -15,6 +17,24 @@
+
   <img  width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=henricodias&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true"/>
   <img  width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricodias&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=react"/>
-  
+
 </div>
 
 <hr>
