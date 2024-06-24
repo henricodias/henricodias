@@ -1,6 +1,6 @@
 Hi ! 👋
 # I'm Henrico Vidal
-      - I'm Big Data & Analytics student.
+      - I'm data scientist.
       - Developer, based in Blumenau, SC;
 
 <div>
